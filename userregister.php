@@ -18,21 +18,21 @@
   	<div class="collapse navbar-collapse" id="navbarSupportedContent">
     		<ul class="navbar-nav mr-auto">
       			<li class="nav-item ">
-        			<a class="nav-link" href="homepage-2.html">Home </a>
+        			<a class="nav-link" href="homepage-2.php">Home </a>
       			</li>
       			<li class="nav-item">
-        			<a class="nav-link" href="homepage-2.html">Quotes</a>
+        			<a class="nav-link" href="homepage-2.php">Quotes</a>
       			</li>
       			<li class="nav-item">
-        			<a class="nav-link" href="homepage-2.html">Articles</a>
+        			<a class="nav-link" href="homepage-2.php">Articles</a>
       			</li>
       			<li class="nav-item">
-        			<a class="nav-link " href="support.html">Support </a>
+        			<a class="nav-link " href="support.php">Support </a>
       			</li>
     		</ul>
     		<ul class="navbar-nav ml-auto">
       			<li class="nav-item">
-       				<a class="nav-link" href="homepage-2.html">Contact us</a>
+       				<a class="nav-link" href="homepage-2.php">Contact us</a>
       			</li>
       			<li class="nav-item">
         			<a class="nav-link active" href="#">Register with us<span class="sr-only">(current)</span></a>
